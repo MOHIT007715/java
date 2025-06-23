@@ -1,0 +1,13 @@
+<doctype html>
+<html>
+  <head>
+     <titale>this is my page</titale>
+	 </head>
+   <body>
+	 <p style="color:red;background colour:green"> my fav game is badminton</p>
+	 <p style="color:white;background colour:blue"> my age is 17 </p>
+	 <div style="color:pink;background colour:black"> my collage name is bggi sangrur</div>
+	 <div style="color:green;background colour:orange"> my hobby is reading books</div>
+	 <span style="color:yellow;background colour:olive"> my name is mohit</span>
+	 <span style="color:brown;background colour:navy blue"> my fav cricket player is kohli</span>
+   </body>
